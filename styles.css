@@ -1,0 +1,62 @@
+main{
+  background-color:#d8d8d8;
+  margin:40px 10px
+}
+#img-div{
+  
+  margin:0 20px;
+   background-color:white;
+  
+}
+#image{
+  width:90%;
+  margin:0 auto;
+
+  max-width:100%;
+  display:block;
+
+
+  object-fit: cover;
+ 
+}
+#img-caption{
+  text-align:center;
+  width:600px;
+  margin:0 auto;
+  padding-bottom:10px;
+  padding-top: 10px;
+}
+#header{
+  text-align:center;
+  padding:20;
+}
+#timelife{
+    padding-top: 20px;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+}
+li{
+  padding: 10px;
+  width: 500px;
+  text-align: justify;
+  margin: 0 auto;
+}
+#cite{
+  font-style: italic;
+  padding: 10px;
+  width: 400px;
+  text-align: justify;
+  margin: 0 auto;
+}
+#pfooter{
+  font-weight: 800; 
+  width: 600px;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+#tribute-link{
+  color: #1465bb;
+}

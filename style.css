@@ -1,25 +1,31 @@
-*{
-    margin: 0;
-    padding: 0;
+main{
+    background-color:#d8d8d8;
+    margin:40px 10px
   }
-  header {
-    font-weight: 800;
-    color: black;
-    font-size: 40px;
-    text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-  }
-  li{
-        margin: auto;
-        width: 600px;
-        padding:10px;
-        color: black;
-        text-align: justify;
-  }
-  h1{
-    font-family: Arial, Helvetica, sans-serif;
-
-  }
-  main{
+  #img-div{
     
+    margin:0 20px;
+     background-color:white; 
+    
+  }
+  #image{
+    width:90%;
+    margin:0 auto;
+  
+    max-width:100%;
+    display:block;
+  
+  
+    object-fit: cover;
+   
+  }
+  #img-caption{
+    text-align:center;
+    width:550px;
+    margin:0px 30px;
+    padding-bottom:10px;
+  }
+  #header{
+    text-align:center;
+    padding:20;
   }
